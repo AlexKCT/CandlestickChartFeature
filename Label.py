@@ -1,6 +1,6 @@
 
 # import finlab_crypto
-import talib
+# import talib
 # from finlab_crypto.strategy import Filter
 import pandas as pd
 
